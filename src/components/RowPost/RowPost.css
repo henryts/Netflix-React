@@ -1,0 +1,27 @@
+.row {
+    margin-left: 20px;
+    color: #fff;
+
+  }
+  
+  .scroll-container {
+    width: 100%;
+    overflow-x: scroll;
+    white-space: nowrap;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+    -webkit-overflow-scrolling: touch;
+    height:100%;
+  }
+  
+  .scroll-container img {
+    display: inline-block;
+    width: 300px; /* Adjust the width of your images as needed */
+    height: auto;
+    margin-right: 10px; /* Add some spacing between images */
+  }
+  
+  .scroll-container::-webkit-scrollbar {
+    display: none; /* Hide the scrollbar on WebKit browsers */
+  }
+  
