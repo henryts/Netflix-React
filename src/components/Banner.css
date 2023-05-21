@@ -5,6 +5,7 @@
     height: 448px;
     color: white;
     padding-bottom: 0px;
+    margin-top: 50px;
    
 }
 
@@ -12,7 +13,7 @@
     padding-top: 140px;
     height: 190px;
     padding-left: 15px;
-    margin-top: 60px;
+    margin-top: 70px;
 }
 
 .title{
@@ -47,7 +48,7 @@
         padding-top: 1rem;
         font-size: 1rem;
         height: 80px;
-        max-width: 360px;
+        max-width: 600px;
 }
 
 
